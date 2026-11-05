@@ -1,0 +1,18 @@
+[project]
+name = "vit-from-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "datasets>=5.1.0",
+    "ipykernel>=7.4.0",
+    "ipywidgets>=8.1.9",
+    "matplotlib>=3.11.2",
+    "pillow>=13.0.0",
+    "scikit-learn>=1.9.1",
+    "tabulate>=0.10.0",
+    "torch>=2.15.0",
+    "torchsummary>=1.5.1",
+    "torchvision>=0.29.2",
+]
